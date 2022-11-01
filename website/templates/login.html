@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content
+%}
+<form method="POST">
+  <h3 align="center">Đăng nhập</h3>
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input
+      type="text"
+      id="email"
+      name="email"
+      class="form-control"
+      placeholder="Nhập email"
+    />
+    <label for="password">Mật khẩu</label>
+    <input
+      type="password"
+      id="password"
+      name="password"
+      class="form-control"
+      placeholder="Nhập mật khẩu"
+    />
+    <br />
+    <div align="center">
+      <button class="btn btn-primary" type="submit">Đăng nhập</button>
+    </div>
+  </div>
+</form>
+{% endblock %}
