@@ -2,7 +2,7 @@
 
 Hiện nay công nghệ đã rất phát triển, đa số mọi người đều có smartphone và có kết nối mạng. Nhằm mục đích kết nối mọi người với nhau, giúp mọi người chia sẻ các quan điểm, kiến thức, kinh nghiệm của bản thân cho nhiều người khác mọi lúc mọi nơi . Hay nói ra những tâm sự, suy nghĩ mà bản thân không thể nói trực tiếp. 
 
-Với các nhu cầu trên nhóm đã quyết định xây dựng trang web blog sử dụng framework Flask là đề tài bài tập lớn.
+Với các nhu cầu trên nhóm đã quyết định xây dựng trang web blog sử dụng framework Flask có sử dụng ngôn ngữ python và html là đề tài bài tập lớn.
 
 2. Cài đặt môi trường
 
